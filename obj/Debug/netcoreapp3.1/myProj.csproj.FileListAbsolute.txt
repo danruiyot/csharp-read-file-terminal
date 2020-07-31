@@ -1,0 +1,13 @@
+/home/ruiyot/Dev-env/dot-net/yusuf/bin/Debug/netcoreapp3.1/myProj
+/home/ruiyot/Dev-env/dot-net/yusuf/bin/Debug/netcoreapp3.1/myProj.deps.json
+/home/ruiyot/Dev-env/dot-net/yusuf/bin/Debug/netcoreapp3.1/myProj.runtimeconfig.json
+/home/ruiyot/Dev-env/dot-net/yusuf/bin/Debug/netcoreapp3.1/myProj.runtimeconfig.dev.json
+/home/ruiyot/Dev-env/dot-net/yusuf/bin/Debug/netcoreapp3.1/myProj.dll
+/home/ruiyot/Dev-env/dot-net/yusuf/bin/Debug/netcoreapp3.1/myProj.pdb
+/home/ruiyot/Dev-env/dot-net/yusuf/obj/Debug/netcoreapp3.1/myProj.csprojAssemblyReference.cache
+/home/ruiyot/Dev-env/dot-net/yusuf/obj/Debug/netcoreapp3.1/myProj.AssemblyInfoInputs.cache
+/home/ruiyot/Dev-env/dot-net/yusuf/obj/Debug/netcoreapp3.1/myProj.AssemblyInfo.cs
+/home/ruiyot/Dev-env/dot-net/yusuf/obj/Debug/netcoreapp3.1/myProj.csproj.CoreCompileInputs.cache
+/home/ruiyot/Dev-env/dot-net/yusuf/obj/Debug/netcoreapp3.1/myProj.dll
+/home/ruiyot/Dev-env/dot-net/yusuf/obj/Debug/netcoreapp3.1/myProj.pdb
+/home/ruiyot/Dev-env/dot-net/yusuf/obj/Debug/netcoreapp3.1/myProj.genruntimeconfig.cache
